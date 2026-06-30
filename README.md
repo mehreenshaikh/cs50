@@ -34,8 +34,27 @@ This repository includes my work for Harvard CS50, which I completed in Fall 202
 -  w3hw_runoff.c
 
 ## Week 4: Memory
+- w4cw_addresses.c (prints location of a newly created variable in memory)
+- w4cw_copy.c (uses pointers)
+- w4cw_cp.c
+- w4cw_garbage.c
+- w4cw_get.c
+- w4cw_memory.c
+- w4cw_phonebook.c
+- w4hw_recover.c
+- w4hw_volume.c
+- w4hw_filter.c (needs bmp.h, helpers.h, helpers.c, and Makefile)
 
 ## Week 5: Data Structures
+- w5cw_list0.c (implements list of numbers with array of fixed size)
+- w5cw_list1.c (implements list of numbers with array of dynamic size)
+- w5cw_list2.c (implements list of numbers with array of dynamic size using realloc)
+- w5cw_list3.c (prepends numbers to a linked list, using while loop to print)
+- w5cw_list4.c (prepends numbers to a linked list, using for loop to print)
+- w5cw_list5.c (implements list of numbers using a linked list)
+- w5cw_list6.c (implements a sorted list of numbers using a linked list)
+- w5cw_tree.c (implements a list of numbers as a binary search tree)
+- w5hw_inheritanc.c (simulates genetic inheritance of blood type)
 
 ## Week 6: Python
 
