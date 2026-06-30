@@ -72,6 +72,3 @@ Some of the work contains too many related files, so I put them in a separate re
 - w6hw_cash.py
 - w6hw_mario.py
 - w6hw_readability.py
-
-## Week 8: HTML CSS Javascript
-- 
