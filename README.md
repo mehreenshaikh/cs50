@@ -57,7 +57,23 @@ This repository includes my work for Harvard CS50, which I completed in Fall 202
 - w5hw_inheritanc.c (simulates genetic inheritance of blood type)
 
 ## Week 6: Python
+- w6cw_agree.py
+- w6cw_calculator.py
+- w6cw_compare.py
+- w6cw_greet.py
+- w6cw_mario.py
+- w6cw_meow.py
+- w6cw_moo.py
+- w6cw_phonebook.py
+- w6cw_qr.py
+- w6cw_scores.py
+- w6cw_uppercase.py
+- w6hw_cash.py
+- w6hw_mario.py
+- w6hw_readability.py
 
 ## Week 7: SQL
+- 
 
 ## Week 8: HTML CSS Javascript
+- 
