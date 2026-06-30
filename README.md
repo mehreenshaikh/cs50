@@ -1,5 +1,6 @@
 # cs50
 This repository includes my work for Harvard CS50, which I completed in Fall 2024. This class can be found for free online at this link: https://pll.harvard.edu/course/cs50-introduction-computer-science
+Some of the work contains too many related files, so I put them in a separate repository which can be accessed through my profile. 
 
 ## Week 1: C
 - w1cw_hello.c (the mandatory hello world program)
@@ -71,9 +72,6 @@ This repository includes my work for Harvard CS50, which I completed in Fall 202
 - w6hw_cash.py
 - w6hw_mario.py
 - w6hw_readability.py
-
-## Week 7: SQL
-- 
 
 ## Week 8: HTML CSS Javascript
 - 
