@@ -16,5 +16,29 @@ This repository includes my work for Harvard CS50, which I completed in Fall 202
 - w1hw_hello.c (takes name as input and greets user)
 - w1hw_mariomore.c (recreates mario pyramid)
 
-## Week 2: 
-- 
+## Week 2: Arrays
+- w2cw_alphabetical.c (checks if characters in a phrase are in alphabetical order)
+- w2cw_argv.c
+- w2cw_avgscores.c (takes in scores and calculates their average)
+- w2cw_doubleup.c (takes the previous value and doubles it)
+- w2cw_greet.c (function that repeats hello as many times as the user inputted)
+
+## Week 3: Algorithms
+- w3cw_factorial.c (prints the factorial of the number inputted by the user using a function with recursive logic)
+-  w3cw_intsearch.c (searches for number inputted by user)
+-  w3cw_iteration.c
+-  w3cw_phonebook.c
+-  w3cw_recursion.c
+-  w3cw_strsearch.c
+-  w3hw_plurality.c
+-  w3hw_runoff.c
+
+## Week 4: Memory
+
+## Week 5: Data Structures
+
+## Week 6: Python
+
+## Week 7: SQL
+
+## Week 8: HTML CSS Javascript
